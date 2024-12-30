@@ -1,0 +1,3 @@
+add_lunch_combo omni_A1045DRI-eng
+add_lunch_combo omni_A1045DRI-user
+add_lunch_combo omni_A1045DRI-userdebug
