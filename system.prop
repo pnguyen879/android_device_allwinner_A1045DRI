@@ -1,0 +1,17 @@
+#
+# system.prop for A1045DRI
+#
+ro.build.id=KVT49L
+ro.build.version.sdk=19
+ro.build.version.release=4.4.2
+ro.build.version.codename=REL
+ro.product.model=A1045DRI
+ro.product.brand=Allwinner
+ro.product.name=A1045DRI
+ro.product.device=A1045DRI
+ro.product.manufacturer=softwinner
+ro.board.platform=polaris
+ro.build.fingerprint=Allwinner/A1045DRI/A1045DRI:4.4.2/KVT49L/20170602:user/test-keys
+ro.sf.lcd_density=160
+persist.sys.usb.config=mass_storage
+ro.adb.secure=1
